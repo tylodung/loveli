@@ -1,7 +1,7 @@
 # Site settings
-title: "Tình Yêu Muôn Màu"
-url-title: "Tình Yêu Muôn Màu"
-description: "Đoàn Bình và Tình Yêu Muôn Màu"
+title: "Lưới Tình"
+url-title: "Lưới Tình"
+description: "Lưới Tình"
 paginate: 100
 url: "https://iloves.live"
 permalink: /:year/:month/:title/
