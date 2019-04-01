@@ -1,7 +1,7 @@
 ---
 published: true
 hidden: false
-title: Những điều chinh phục đôi tai của đàn ông
+title: Những điều chinh phục Đôi Tai của đàn ông
 tags: styling react styled-components
 twitter_large: true
 image: dan-ong.png
@@ -12,7 +12,7 @@ Có chị lấy lý do bận bịu không để ý đến việc chinh phục c�
 
 Những điều mà bất cứ người đàn ông nào cũng muốn nghe được liệt kê dưới đây thực ra không phải là những lời quá khó để thốt ra. Chúng cũng không phải là những giả dối đãi bôi khiến chính người nói thấy mình sao gượng gạo, không thật lòng. Ngược lại, nếu tình yêu và sự trân trọng nhau vẫn còn đầy ắp, thì những lời ngọt ngào nhưng rất đỗi giản đơn này đều xuất phát từ trái tim chúng ta mà thôi. Vấn đề là chúng ta đã vô tình cất chúng đi ở một nơi nào đó. Vậy thì tại sao chúng ta không lấy chúng ra, thổi vào chúng hơi ấm tình yêu để tặng chàng?
 
-Vậy thì thực ra các ông chồng của chúng ta thường thích nghe điều gì?
+**Vậy thì thực ra các ông chồng của chúng ta thường thích nghe điều gì?**
 
 Đầu tiên là những lời khen ngợi. Nghe thì đơn giản nhưng thực ra đây là điều mà nhiều chị em quên nhất. Tại sao với các quan hệ xã giao thuần túy ta có thể rất khéo léo, nhã nhặn, ngọt ngào mà với người trong nhà ta lại thấy những lời khen dành cho người đàn ông của mình là ”vẽ sự”, là ”không cần thiết”…? Thực ra thì một lời khen ngợi động viên đúng lúc, đặc biệt là sau khi người đàn ông đã làm được những gì đó cho gia đình, cho vợ, cho con; sau những lần ân ái mặn nồng, hay sau bất cứ điều gì mà người phụ nữ biết rõ là anh ấy dành cho mình và chỉ dành cho mình mà thôi… giống như một phép màu khiến cho người đàn ông phấn chấn và cảm thấy mình có ích cho những người thân yêu của mình. Sự phấn chấn phấn khích sẽ chuyển hóa thành động lực để người đàn ông luôn không tiếc công sức và thời gian của mình để được… khen! Bí quyết của hạnh phúc gia đình có thể nói là nằm ở những lời khen nhiều khi bị chị em chúng ta quên lãng này!
 
