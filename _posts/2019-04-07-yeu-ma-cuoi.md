@@ -1,7 +1,7 @@
 ---
 published: true
 hidden: false
-title: Hãy VÌ YÊU MÀ CƯỚI, đừng kết hôn chỉ vì gia đình hay tuổi tác, đến với nhau khi trái tim thấy cần
+title: Hãy Vì Yêu Mà Cưới, đừng kết hôn chỉ vì gia đình hay tuổi tác
 tags: styling react styled-components
 twitter_large: true
 image: ket-hon.jpg
@@ -10,13 +10,13 @@ custom_excerpt: Tình yêu nên đến từ hai phía, chỉ có từ hai phía 
 
 Tình yêu cần có sự vun đắp từ cả hai phía, nếu chỉ có một người tự thân vận động thì mối quan hệ ấy cũng sẽ kết thúc thôi nhưng đợi đến lúc đấy thì có lẽ cả hai cũng đã mệt mỏi tới điên đầu lên rồi. 
 
-Chắc chắn, ai cũng mơ ước được xây đắp một giấc mơ hạnh phúc với người đàn ông mà mình yêu.
+**Chắc chắn, ai cũng mơ ước được xây đắp một giấc mơ hạnh phúc với người đàn ông mà mình yêu.**
 
 Tuy nhiên, có những lúc chuyện kết hôn dường như là chuyện không của riêng hai người nữa. Ở đời, vốn dĩ yêu ai cũng có người dèm pha và nói ra nói vào. Người này không hợp tuổi, người kia gia cảnh không ổn định, anh chàng này chưa thật đẹp trai hoặc anh chàng kia có vẻ hơi… hiền.
 
 Thế là từ bao giờ chuyện cưới xin của cá nhân một người lại trở thành mối bận tâm ghê gớm lắm của rất nhiều người khác. Từ ba mẹ đến họ hàng thân sơ, bà con lối xóm. Không chỉ từ người thân quen, mà còn là người hơi hơi biết một chút… cũng đưa ra góp ý về sự lựa chọn.
 
-Chọn người-mình-yêu!
+**Chọn người-mình-yêu!**
 
 Đó chính là ý kiến của Hamlet Trương trong quyển Ai rồi cũng khác: “Nhưng thỉnh thoảng, ta cũng nên mường tượng trước cảnh mình sẽ thức dậy bên cạnh một người mà mình không có gì để đam mê.
 
