@@ -1,7 +1,7 @@
 ---
 published: true
 hidden: false
-title: Khi ngoại tình, phụ nữ thực sự còn đáng sợ hơn đàn ông
+title: Khi phụ nữ ngoại tình thực sự còn đáng sợ hơn đàn ông
 tags: styling react styled-components
 twitter_large: true
 image: khi-ngoai-tinh.jpg
@@ -18,7 +18,7 @@ Một người phụ nữ luôn luôn cần có được tình yêu thương c�
 
 Nhưng có một điều chắc chắn rằng, phụ nữ ngoại tình thường vì yêu, vì cảm mến. Nếu họ không thật lòng có tình cảm, họ sẽ không đến với người đàn ông khác vì những nhu cầu sinh lý như đàn ông.
 
-Mục tiêu khi ngoại tình của phụ nữ là điều gì?
+**Mục tiêu khi ngoại tình của phụ nữ là điều gì?**
 
 Mục tiêu của phụ nữ khi ngoại tình đôi khi không phải xuất phát từ tình dục. Họ thường thiên về cảm xúc, tình cảm hơn là những ham muốn xác thịt. Vì vậy, phụ nữ đã ngoại tình cũng có nghĩa họ không còn thuộc về gia đình nữa.
 
