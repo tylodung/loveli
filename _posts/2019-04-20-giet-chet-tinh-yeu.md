@@ -1,7 +1,7 @@
 ---
 published: true
 hidden: false
-title: Bạn sẽ giết chết tình yêu của mình nếu phạm phải những điều sau
+title: Tình Yêu sẽ giết chết nếu bạn phạm phải những điều sau
 tags: styling react styled-components
 twitter_large: true
 image: sai-lam.jpg

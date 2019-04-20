@@ -1,7 +1,7 @@
 ---
 published: true
 hidden: false
-title: Làm ngay điều này đầu năm để vợ chồng mãi mãi hạnh phúc, cả năm sum vầy, tình cảm thăng hoa
+title: Cách đầu năm để vợ chồng mãi mãi hạnh phúc
 tags: styling react styled-components
 twitter_large: true
 image: nguoi-tinh.jpg
