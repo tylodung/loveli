@@ -1,7 +1,7 @@
 ---
 published: true
 hidden: false
-title: Chẳng lo phải khóc lóc đau khổ nữa bởi đã có thuốc chữa bệnh THẤT TÌNH rồi
+title: Chẳng lo phải khóc lóc đau khổ nữa bởi đã có thuốc chữa bệnh Thất Tình rồi
 tags: styling react styled-components
 twitter_large: true
 image: that-tinh.jpg
@@ -23,13 +23,13 @@ Hoặc họ cũng có thể khám phá ra rằng mối quan hệ không còn ph�
 
 Earp cũng chỉ ra một số loại thuốc có tên SSRI có khả năng khiến bạn mất dần cảm giác quan tâm đến người khác, làm giảm bớt sự ràng buộc của bạn đối với một mối quan hệ mà bạn không còn hứng thú.
 
-Trải nghiệm sáu năm hễ uống thuốc vào là yêu say đắm
+**Trải nghiệm sáu năm hễ uống thuốc vào là yêu say đắm**
 
 Theo James, sau khi dùng thuốc, cảm giác mà anh có giống như là “khi bạn thấy cuộc sống thật tồi tệ thì có một người thân đến ôm chầm lấy bạn. Đó là một sự an ủi sâu sắc”. “Ngay tại thời điểm đó, bạn chỉ biết rằng mọi thứ đều ổn” – James nói.
 
 Trong khi đó theo Colleen, một nhân vật khác dùng MDMA được tạp chí Wired phỏng vấn, khi sử dụng thêm thuốc kích thích, anh và bạn đời của mình dễ dàng kết nối cảm xúc với nhau hơn thay vì phải tìm sự tư vấn của người ngoài cuộc.
 
-Có thực sự tạo nên cảm xúc yêu đương?
+**Có thực sự tạo nên cảm xúc yêu đương?**
 
 Theo tạp chí Wired, mặt tối của việc sử dụng thuốc kích thích tình yêu xảy ra khi các cặp đôi nhầm lẫn giữa việc dùng thuốc để “hâm nóng” tình yêu đã có với việc dùng thuốc để “xây dựng một mối quan hệ”.
 
