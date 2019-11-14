@@ -17,7 +17,7 @@ Không ít phụ nữ tưởng việc lấy người đàn ông khác ra làm �
 
 “Có mỗi việc tập thể thao anh cũng lười. Anh nhìn anh Cường nhà chị Nga xem, hơn anh mấy tuổi mà người rắn chắc thế, còn anh…’. Chỉ một câu nói vậy thôi mà anh đùng đùng giận tôi. Tôi cũng chỉ muốn anh có động lực tập luyện, khỏe mạnh hơn mà không ngờ anh tự ái”- Tuyết Vân- 30 tuổi, đang sống tại TPHCM- chia sẻ.
 
-Theo các chuyên gia tâm lý, so sánh chồng với người đàn ông khác, về tài chính hay sức khỏe đều khiến người chồng rơi vào cảm giác bị coi thường và rất dễ mất bình tĩnh. “Chồng bạn em bằng tuổi anh mà nhà cửa, ô tô đề huề. Còn anh, nhìn xem…Tôi chưa nói hết câu, anh đã cao giọng: ‘Nếu thế thì em sang nhà chồng bạn em mà ở…’ rồi bỏ đi”- Mỹ Thanh- một giáo viên dạy tiếng Anh- kể.
+Theo các chuyên gia tâm lý, so sánh chồng với người đàn ông khác, về tài chính hay sức khỏe đều khiến người chồng rơi vào cảm giác bị coi thường và rất dễ mất bình tĩnh. “Chồng bạn em bằng tuổi anh mà nhà cửa, ô tô đề huề. Còn anh, nhìn xem… Tôi chưa nói hết câu, anh đã cao giọng: ‘Nếu thế thì em sang nhà chồng bạn em mà ở…’ rồi bỏ đi”- Mỹ Thanh- một giáo viên dạy tiếng Anh- kể.
 
 **“Giá em không lấy anh”**
 
